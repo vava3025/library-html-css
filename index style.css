@@ -1,0 +1,58 @@
+body{
+    background-image: url(library.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: aliceblue;
+}
+    .loginbox{
+        position: absolute;
+        top: 80px;
+        right:70px;
+        background-color: #f4f4f4;
+        padding: 40px;
+        width: 250px;
+        border-radius: 10px;
+        text-align:center ;
+        margin-top: 20px;
+        
+        
+        
+    }
+    .loginbox h3{
+        margin-bottom: 15px;
+    }
+    .loginbox{
+        display: block;
+        margin-bottom: 5px;
+    
+    }
+    .loginbox input{
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+    .loginbox button{
+        width: 100%;
+        padding: 10px;
+        border: none;
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+        cursor:pointer;
+    }
+    .loginbox button:hover{
+        background-color: #0056b3;
+    }
+    .loginbox p{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .loginbox a:hover{
+        text-decoration: underline;
+    }
+
+

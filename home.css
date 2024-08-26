@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+.form{
+    align-items: center;
+}
+.container{
+    align-items: center;
+}
+img.slide{
+    height: 400px;
+    width: 700px;
+}
+.container-fluid{
+    float: right;
+    margin-top: 20px;
+}
